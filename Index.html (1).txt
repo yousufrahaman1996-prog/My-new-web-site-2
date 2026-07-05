@@ -1,0 +1,40 @@
+[21:52, 05/07/2026] eryousufrahaman: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My-new-web-site</title>
+<style>
+body { font-family: sans-serif; text-align: center; background-color: #f4f7f6; margin-top: 50px; }
+.box { background: white; padding: 30px; display: inline-block; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+h1 { color: #2c3e50; }
+p { color: #555; }
+</style>
+</head>
+<body>
+<div class="box">
+<h1>অভিনন্দন! আপনার ওয়েবসাইট লাইভ হয়েছে! 🎉</h1>
+<p>এটি আপনার ওয়েবসাইটের মূল পেজ। এখন যে কেউ এই লিংকে এসে আপনার সাইট দেখতে পারবে।</p>
+</div>
+</body>
+</html>
+[21:53, 05/07/2026] eryousufrahaman: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My-new-web-site</title>
+<style>
+body { font-family: sans-serif; text-align: center; background-color: #f4f7f6; margin-top: 50px; }
+.box { background: white; padding: 30px; display: inline-block; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+h1 { color: #2c3e50; }
+p { color: #555; }
+</style>
+</head>
+<body>
+<div class="box">
+<h1>অভিনন্দন! আপনার ওয়েবসাইট লাইভ হয়েছে! 🎉</h1>
+<p>এটি আপনার ওয়েবসাইটের মূল পেজ। এখন যে কেউ এই লিংকে এসে আপনার সাইট দেখতে পারবে।</p>
+</div>
+</body>
+</html>
